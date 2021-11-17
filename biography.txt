@@ -1,1 +1,2 @@
 Hello my name is Juorder Gonzalez and I am a JS software developer :)
+Skills: JavaScript, ReactJS React Native
